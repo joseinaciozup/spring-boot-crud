@@ -29,7 +29,7 @@ mvn spring-boot:run
 * JUnit;
 
 # Requisitos
-* [Java 11](https://www.oracle.com/technetwork/java/javase/downloads/jdk11-downloads-5066655.html);
+* [Java 8](https://www.oracle.com/ar/java/technologies/javase/javase-jdk8-downloads.html);
 * [docker-compose](https://docs.docker.com/compose/install/#install-compose);
 * [Lombok](https://projectlombok.org/)
 
