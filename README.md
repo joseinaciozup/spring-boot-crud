@@ -21,9 +21,9 @@ mvn spring-boot:run
 ```
 
 ## Stack
-* Java 11
-* Spring Boot
-* Spring Data JPA
+* Java 8;
+* Spring Boot;
+* Spring Data JPA;
 * Maven;
 * Postgres;
 * JUnit;
@@ -31,12 +31,12 @@ mvn spring-boot:run
 # Requisitos
 * [Java 8](https://www.oracle.com/ar/java/technologies/javase/javase-jdk8-downloads.html);
 * [docker-compose](https://docs.docker.com/compose/install/#install-compose);
-* [Lombok](https://projectlombok.org/)
+* [Lombok](https://projectlombok.org/);
 
 
 ## Changelog
 - 0.0.1: Configuração da aplicação;
-- 0.0.2: Implementação do fluso salvar pessoa #13;
+- 0.0.2: Implementação do fluxo salvar pessoa #13;
 - 0.0.3: Formatação do código com padrão google #17;
 - 0.0.4: Criação de endpoint para salvar pessoa #14;
 - 0.0.5: Configuração do hystrix #15;
